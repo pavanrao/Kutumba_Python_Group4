@@ -65,5 +65,9 @@ https://spacy.io/
 ## Making games with Python and PyGame - Free book with multiple games
 https://inventwithpython.com/pygame/index.html
 
+## Text based games - Invent with Python
+https://inventwithpython.com/chapters/
+
+
 
 
