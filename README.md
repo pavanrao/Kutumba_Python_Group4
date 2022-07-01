@@ -29,8 +29,14 @@ https://docs.google.com/presentation/d/1g1X59BvkkuLYxiXMi1xoHShxnK-azGo6vHbul8AA
 ## Unit 8 Lists
 https://docs.google.com/presentation/d/1_LN6DYLdyRVqY7HxVd7f4l20snyX9joHRXMBGiBYM-g/edit#slide=id.ge67bb7009e_0_0
 
+https://realpython.com/python-lists-tuples/
+
+
 ## Unit 9 Methods
 https://docs.google.com/presentation/d/1Xmo3ZSVzCj0DXMMvFfVt1wN_ywjROf3al3XcKkdC96k/edit#slide=id.ge55b11d3c3_0_0
+
+## Built in functions in Python
+https://docs.python.org/3/library/functions.html
 
 
 ## Visualize Step by step Python execution
@@ -47,6 +53,17 @@ https://pythontutor.com/
 
 
 ## Arg parse
+
+
+## Natural Language Processing libraries
+### Article about nltk
+https://realpython.com/nltk-nlp-python/
+### Spacy
+https://spacy.io/
+
+
+## Making games with Python and PyGame - Free book with multiple games
+https://inventwithpython.com/pygame/index.html
 
 
 
