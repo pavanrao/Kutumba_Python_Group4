@@ -35,6 +35,17 @@ https://realpython.com/python-lists-tuples/
 ## Unit 9 Methods
 https://docs.google.com/presentation/d/1Xmo3ZSVzCj0DXMMvFfVt1wN_ywjROf3al3XcKkdC96k/edit#slide=id.ge55b11d3c3_0_0
 
+## Unit 10 Tuples and Lists
+Few articles that explain the difference between Lists, Tuples and Sets and when they are used
+
+https://www.educative.io/answers/list-vs-tuple-vs-set-vs-dictionary-in-python
+
+https://towardsdatascience.com/15-examples-to-master-python-lists-vs-sets-vs-tuples-d4ffb291cf07
+
+https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/
+
+
+
 ## Built in functions in Python
 https://docs.python.org/3/library/functions.html
 
